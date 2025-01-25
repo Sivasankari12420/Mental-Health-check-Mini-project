@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Mental-Health-check-Mini-project
 =======
 # Mental Health Check
@@ -94,3 +95,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [Meshtatsuo](https://github.com/Meshtatsuo)  
 [kakudiego](https://github.com/kakudiego)
 >>>>>>> dc979cf (my-application)
+=======
+# Mental-Health-check-Mini-project
+>>>>>>> 883569be9e5e815dea523fac649a6d0c743f2063

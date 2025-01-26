@@ -8,11 +8,6 @@
 
 A mental health quiz app that helps users track their moods using standardized screening tests. Mental Health Check tests users with multiple quiz options to help users understand and identify their feelings. The app is a Progressive Web Application including the ability to take and save quiz results offline. The application uses a React.js front-end with MongoDB and Express.js running the back-end and Node.js as the package manager.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![badmath](https://img.shields.io/github/languages/top/nitrotap/mental-health-check)  
-![badmath](https://img.shields.io/github/issues/nitrotap/mental-health-check)
-![badmath](https://img.shields.io/github/forks/nitrotap/mental-health-check)  
-![badmath](https://img.shields.io/github/stars/nitrotap/mental-health-check)
 
 https://mh-check.herokuapp.com/  
 https://www.mhcheck.app/
@@ -70,20 +65,16 @@ Use the .env.example file to ensure proper database setup. Replace the environme
 
 ## Made By:
 
-[Nitrotap](https://github.com/nitrotap) - Kartik Jevaji  
-[Harabushi](https://github.com/Harabushi) - Colby Harris  
-[ChaVue91](https://github.com/chavue91) - Cha Vue  
-[WillYazdani](https://github.com/WillYazdani) - Will Yazdani
+
 
 ## Questions
 
-Please reach out to me on [GitHub](https://github.com/nitrotap) or by email at kartikinpublic@gmail.com for any additional questions.
 
 ## License
 
 MIT
 
-Copyright 2022 Kartik Jevaji
+Copyright 2022 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
@@ -92,9 +83,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Past contributors:
 
-[Meshtatsuo](https://github.com/Meshtatsuo)  
-[kakudiego](https://github.com/kakudiego)
->>>>>>> dc979cf (my-application)
+[
+
 =======
 # Mental-Health-check-Mini-project
 >>>>>>> 883569be9e5e815dea523fac649a6d0c743f2063
